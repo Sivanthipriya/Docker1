@@ -1,0 +1,23 @@
+{
+  "name": "trial",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Node.js on Docker",
+  "author": "First Last <first.last@example.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sivanthipriya/docker1.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sivanthipriya/docker1/issues"
+  },
+  "homepage": "https://github.com/Sivanthipriya/docker1#readme"
+}
